@@ -1,0 +1,23 @@
+body{
+    background: #005AA7;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FFFDE4, #005AA7);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FFFDE4, #005AA7);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+/* <!--Root contactform color
+:root {
+    --ad-primaryColor: rgb(245, 170, 193);
+    --ad-secondaryColor: rgb(168, 99, 120);
+    --formFocusColor: var(--ad-secondaryColor);
+    --formFocusShadowColor: rgba(214, 80, 143, 0.555);
+} 
+
+ Form Shadowbox 
+.form-control:focus {
+    border-color: var(--formFocusColor);
+    box-shadow: 0 0 0 .25rem var(--formFocusShadowColor);
+}--> */
+
